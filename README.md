@@ -1,1 +1,1 @@
-# Damo-Megablade-Army
+# LaTeX Templates
